@@ -166,7 +166,7 @@ Nevertheless, this remains a plausible extension for future work.
 
 ## Conclusion
 
-Even with modern gradient boosting models, predicting flight delays using only pre-departure information remains inherently difficult.  
+Even with modern gradient boosting models, predicting flight delays using only pre-departure information with no climate data remains inherently difficult.  
 The primary limitation of this task is informational rather than algorithmic.
 
 ---
