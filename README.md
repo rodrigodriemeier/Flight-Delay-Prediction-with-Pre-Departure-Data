@@ -189,5 +189,7 @@ src/
 ├── train.py # model training
 └── evaluate.py # validation and final inference
 
+
+
 AUTHOR Rodrigo Driemeier dos Santos EESC - University of São Paulo (USP), São Carlos, Brazil — Mechatronics Engineering École Centrale de Lille, France — Generalist Engineering rodrigodriemeier@usp.br https://www.linkedin.com/in/rodrigo-driemeier-dos-santos-a7698633b/
 
